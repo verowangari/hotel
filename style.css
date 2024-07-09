@@ -56,8 +56,12 @@ main {
 .hero {
     text-align: center;
     padding: 2rem 0;
-    background: url('https://via.placeholder.com/1200x600') no-repeat center center/cover;
+    /* background: url('https://via.placeholder.com/1200x600') no-repeat center center/cover; */
     color: #fff;
+}
+#home{
+    background: url(/assets/olive-oil-346997_1280.jpg.crdownload);
+    
 }
 
 .hero h1 {
